@@ -6,6 +6,11 @@ Welcome to **LaunchPad**, the official Strapi demo application. This project is 
 
 ---
 
+### 🛡️ Optimized for Production
+Do not build your images directly on a low-RAM VPS! We highly recommend using the [Private Docker Registry Boilerplate](https://github.com/tuquet/docker-registry-boilerplate) to store your pre-built images. This ensures a **lightweight, fast, and secure** deployment cycle.
+
+---
+
 ## 🛠️ Environment Matrix
 
 To avoid port conflicts on local machines, we use different port ranges for Docker and Local development.
