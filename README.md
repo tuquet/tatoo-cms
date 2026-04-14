@@ -120,6 +120,20 @@ docker exec -it -u root strapi yarn seed
 
 [Docs](https://docs.strapi.io) • [Discord](https://discord.strapi.io) • [YouTube](https://www.youtube.com/c/Strapi/featured) • [Strapi Design System](https://design-system.strapi.io/) • [Marketplace](https://market.strapi.io/) • [Cloud Free Trial](https://cloud.strapi.io)
 
+---
+
+## 🌌 The LaunchPad Ecosystem
+
+This project is part of the **LaunchPad** ecosystem—a complete suite of boilerplates designed for high-performance, production-ready development. Check out the other repositories to complete your stack:
+
+- 📱 [**LaunchPad Mobile Native**](https://github.com/tuquet/launchpad-mobile-native): A React Native/Expo mobile app boilerplate configured for seamless Strapi integration.
+- 💻 [**LaunchPad CMS Fullstack**](https://github.com/tuquet/launchpad-cms-fullstack): A full-stack starter kit combining Next.js (Frontend) and Strapi 5 (Headless CMS) with Docker support.
+- 🐳 [**LaunchPad Registry Stack**](https://github.com/tuquet/launchpad-registry-stack): A lightweight, self-hosted private Docker Registry with Web UI to streamline your CI/CD and save VPS resources.
+
+⭐️ **If you find this ecosystem useful, please consider giving the repositories a star on GitHub!**
+
+---
+
 ## Customization
 
 - The Strapi application contains a custom population middlewares in every api route.
